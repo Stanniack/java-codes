@@ -3,7 +3,7 @@ package lambdafunctions;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class Lambda {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
 
