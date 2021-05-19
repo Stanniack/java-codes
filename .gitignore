@@ -7,3 +7,8 @@ out/production/exemples/algoritmos/Animal.class
 exemples.iml
 .idea/modules.xml
 .idea/misc.xml
+.idea/vcs.xml
+out/production/exemples/buscasequencial/Animal.class
+out/production/exemples/buscasequencial/BuscaSequencial.class
+out/production/exemples/buscasequencial/Human.class
+out/production/exemples/lambdafunctions/Main.class
