@@ -1,4 +1,4 @@
-package buscasequencial;
+package model;
 
 public class Animal {
     private String type;

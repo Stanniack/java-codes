@@ -1,4 +1,4 @@
-package buscasequencial;
+package model;
 
 public class Human extends Animal {
     public String name;

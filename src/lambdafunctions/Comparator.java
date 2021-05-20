@@ -1,6 +1,6 @@
 package lambdafunctions;
 
-import buscasequencial.Human;
+import model.Human;
 
 import java.util.Arrays;
 import java.util.Collections;
