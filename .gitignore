@@ -17,4 +17,5 @@ exemples.iml
 *.class
 *.jar
 *.war
+*.xml
 
