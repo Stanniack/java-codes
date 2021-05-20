@@ -1,17 +1,20 @@
-
-out/production/exemples/util/MockNumbers.class
-out/production/exemples/Main.class
-out/production/exemples/algoritmos/Human.class
-out/production/exemples/algoritmos/BuscaSequencial.class
-out/production/exemples/algoritmos/Animal.class
 exemples.iml
 .idea/modules.xml
 .idea/misc.xml
 .idea/vcs.xml
-out/production/exemples/buscasequencial/Animal.class
-out/production/exemples/buscasequencial/BuscaSequencial.class
-out/production/exemples/buscasequencial/Human.class
-out/production/exemples/lambdafunctions/Main.class
 .idea/uiDesigner.xml
-out/production/exemples/lambdafunctions/Comparator$1.class
-out/production/exemples/lambdafunctions/Threads.class
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\Mateus\IdeaProjects\exemples\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Formats
+
+*.class
+*.jar
+*.war
