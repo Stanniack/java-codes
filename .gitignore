@@ -15,3 +15,12 @@ out/production/exemples/lambdafunctions/Main.class
 .idea/uiDesigner.xml
 out/production/exemples/lambdafunctions/Comparator$1.class
 out/production/exemples/lambdafunctions/Threads.class
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\Mateus\IdeaProjects\exemples\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
