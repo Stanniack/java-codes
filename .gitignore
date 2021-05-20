@@ -13,3 +13,5 @@ out/production/exemples/buscasequencial/BuscaSequencial.class
 out/production/exemples/buscasequencial/Human.class
 out/production/exemples/lambdafunctions/Main.class
 .idea/uiDesigner.xml
+out/production/exemples/lambdafunctions/Comparator$1.class
+out/production/exemples/lambdafunctions/Threads.class
